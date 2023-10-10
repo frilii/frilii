@@ -1,4 +1,10 @@
-<p><strong>Olá sou Fabricio O Dev, desenvolvedor fullstack!</strong></p>
+# DevPaiola
+
+Frontend Developer & UI Designer
+
+[![Linkedin Badge](https://img.shields.io/badge/-Fabricio%20Paiola-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabr%C3%ADcio-paiola-246923241/)](https://www.linkedin.com/in/fabr%C3%ADcio-paiola-246923241/) 
+[![Gmail Badge](https://img.shields.io/badge/-devpaiola@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devpaiola@gmail.com)](mailto:devpaiola@gmail.com)
+
  
  <div align="left">
   <div> 
@@ -9,15 +15,6 @@
  
 
  </div>
-<h1>Contatos</h1>
-<div>
- <a href="https://twitter.com/friliiDev?t=HrIDVuPgT9PDid7TYSj3vw&s=09"><img src="https://img.shields.io/twitter/follow/friliiDev" /></a>
- <a href="https://www.instagram.com/f.pgstz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
- <a href="devpaiola@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/fabrício-paiola-246923241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
 
-<!-- github workflow  -->
-
- ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
-
+Meu nome é Fabricio Paiola. Sou Pentester, FullStack Developer e UI Designer.
+E esse é o meu mundo...
