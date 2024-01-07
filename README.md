@@ -16,5 +16,5 @@ Frontend Developer & UI Designer
 
  </div>
 
-Meu nome é Fabricio Paiola. Sou Pentester, FullStack Developer e UI Designer.
+Meu nome é Fabricio Paiola. Sou Pentester e FullStack Developer.
 E esse é o meu mundo...
